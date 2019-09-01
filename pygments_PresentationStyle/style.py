@@ -46,7 +46,7 @@ class PresentationStyle(pygments.style.Style):
         Operator:           '#555555',
         Operator.Word:      'bold #000000',
 
-        Name.Builtin:       '#336666',
+        Name.Builtin:       '#900000',
         Name.Function:      '#CC00FF',
         Name.Class:         'bold #00AA88',
         Name.Namespace:     'bold #00CCFF',
