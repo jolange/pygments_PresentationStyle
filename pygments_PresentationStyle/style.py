@@ -21,6 +21,8 @@ https://github.com/slgobinath/libreoffice-code-highlighter
 
 Based on the builtin style 'manni'.
 '''
+
+
 import pygments.style
 from pygments.token import Keyword, Name, Comment, String, Error, \
      Number, Operator, Generic, Whitespace
